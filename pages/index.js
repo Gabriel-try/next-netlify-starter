@@ -13,9 +13,9 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
-          <iframe src="https://coda.io/embed/RSrp0hxLN2/_suf-J?viewMode=embedplay" width=900 height=500 style="max-width: 100%;" allow="fullscreen"></iframe>
+          Get started by editing <code>pages/index.js</code>   
         </p>
+      <iframe src="https://coda.io/embed/RSrp0hxLN2/_suf-J?viewMode=embedplay" width=900 height=500 style="max-width: 100%;" allow="fullscreen"></iframe>
       </main>
 
       <Footer />
